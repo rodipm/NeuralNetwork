@@ -19,5 +19,8 @@
   "homepage": "https://github.com/rodipm/NeuralNetwork#readme",
   "devDependencies": {
     "nodemon": "^1.19.0"
+  },
+  "dependencies": {
+    "canvas": "^2.5.0"
   }
 }
