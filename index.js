@@ -1,1 +1,4 @@
-console.log("hi")
+// Neural Network Implementation
+// Rodrigo Perrucci Macharelli
+
+
